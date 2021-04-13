@@ -1,6 +1,8 @@
 <div align="center">
  <img src="https://github.com/drDrozio/drDrozio/blob/master/gif2.gif" />
 </div>
+
+
 # Hi I'm Ishan Sarkar :rocket:
 
 Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu)
