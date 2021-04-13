@@ -5,7 +5,7 @@
 
 # Hi I'm Ishan Sarkar :smile:
 
-Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu)
+Currently pursuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
 
 ## Into Machine Learning, Data Science and Web Development :robot:
