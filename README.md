@@ -3,7 +3,7 @@
 </div>
 
 
-# Hi I'm Ishan Sarkar :rocket:
+# Hi I'm Ishan Sarkar :smile:
 
 Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu)
 
@@ -25,6 +25,7 @@ Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar 
 
 ***
 
+## Frequent visitor to the world of Finance and Economics :money:
 
 <div align="center">
  <img src="https://github.com/drDrozio/drDrozio/blob/master/gif3.gif" />
