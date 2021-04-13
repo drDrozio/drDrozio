@@ -9,6 +9,7 @@ Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar 
 
 
 ## Into Machine Learning, Data Science and Web Development :robot:
+## Frequent visitor to the world of Finance and Economics :moneybag:
 
 ***
 <div align="center">
@@ -24,8 +25,6 @@ Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar 
 --> 
 
 ***
-
-## Frequent visitor to the world of Finance and Economics :money:
 
 <div align="center">
  <img src="https://github.com/drDrozio/drDrozio/blob/master/gif3.gif" />
