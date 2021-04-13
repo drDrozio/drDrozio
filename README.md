@@ -12,4 +12,4 @@ A CS Undergard (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering 
 
 ### Technologies I use :computer:
 
-Django | Tensorflow | Keras | OpenCV | SQL
+#### Django | Tensorflow | Keras | OpenCV | SQL
