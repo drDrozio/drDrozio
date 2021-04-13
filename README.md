@@ -1,6 +1,10 @@
+<div align="center">
+ <img src="https://github.com/drDrozio/drDrozio/blob/master/gif2.gif" />
+</div>
 # Hi I'm Ishan Sarkar :rocket:
 
-A CS Undergard (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu) and Developer from India
+Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering and Technology](https://thapar.edu)
+
 
 ## Into Machine Learning, Data Science and Web Development :robot:
 
