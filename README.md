@@ -25,6 +25,12 @@ Currently persuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar 
 
 ***
 
+
+<div align="center">
+ <img src="https://github.com/drDrozio/drDrozio/blob/master/gif3.gif" />
+</div>
+
+
 ### Languages I write in :pencil2:
 
 - Python :snake:
