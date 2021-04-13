@@ -4,6 +4,21 @@ A CS Undergard (IIIrd Year) 👨🏻‍💻 in [Thapar Institute of Engineering 
 
 ## Into Machine Learning, Data Science and Web Development :robot:
 
+***
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=drDrozio&count_private=true&include_all_commits=true" />
+ 
+<!-- https://github-readme-stats.vercel.app/api?username=drDrozio&count_private=true&show_icons=true -->
+</div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=drDrozio&color=yellowgreen"/></div>
+<!--  
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=drDrozio" />
+</div>
+--> 
+
+***
+
 ### Languages I write in :pencil2:
 
 - Python :snake:
