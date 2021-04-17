@@ -35,12 +35,12 @@ Currently pursuing Computer Engineering (IIIrd Year) 👨🏻‍💻 in [Thapar 
 
 ### Technologies I use :computer:
 
-#### Django | Tensorflow | Keras | OpenCV | SQL
+#### Django | Tensorflow | Keras | OpenCV | SQL | AWS
 
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cplusplus/cplusplus.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cplusplus/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
